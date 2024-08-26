@@ -55,3 +55,6 @@ or
 `python demo_toolbox.py`  
 
 depending on whether you downloaded any datasets. If you are running an X-server or if you have the error `Aborted (core dumped)`, see [this issue](https://github.com/CorentinJ/Real-Time-Voice-Cloning/issues/11#issuecomment-504733590).
+<img width="440" alt="RTVC architecture" src="https://github.com/user-attachments/assets/26d35293-5f06-4f31-a8eb-8489bc95656a">
+
+
