@@ -60,4 +60,5 @@ depending on whether you downloaded any datasets. If you are running an X-server
 <img width="629" alt="rtvc ss" src="https://github.com/user-attachments/assets/8e9ce9e7-778d-4197-beca-e4fd6e61bf90">
 <img width="609" alt="rtvcc" src="https://github.com/user-attachments/assets/ad5d080a-801a-4a5e-872f-8a664a1474c8">
 
+<img width="614" alt="ss" src="https://github.com/user-attachments/assets/9b4affc7-24f8-423b-a399-a92aa25a5cd1">
 
